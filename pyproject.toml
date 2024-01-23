@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "zipper"
+version = "0.1.0"
+description = "P2P crypto exchange"
+authors = ["Nikiforov27"]
+license = "GPL v3.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+bs4 = "^0.0.2"
+aiohttp = "^3.9.1"
+asyncio = "^3.4.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

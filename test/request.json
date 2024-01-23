@@ -1,0 +1,1 @@
+b'{"status":{"timestamp":"2024-01-23T13:58:18.480Z","error_code":0,"error_message":null,"elapsed":34,"credit_count":1,"notice":null},"data":{"id":1,"symbol":"BTC","name":"Bitcoin","amount":1,"last_updated":"2024-01-23T13:57:00.000Z","quote":{"USD":{"price":38915.23913677613,"last_updated":"2024-01-23T13:57:00.000Z"}}}}'
